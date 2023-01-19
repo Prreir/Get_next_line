@@ -8,3 +8,5 @@
 - [GNLTester](https://github.com/Tripouille/gnlTester)
 
 - [GNL-Station-Tester](https://github.com/kodpe/gnl-station-tester)
+
+Made by Luís Pereira (Prreir) | lugoncal@student.42porto.com
